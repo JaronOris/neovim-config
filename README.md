@@ -1,1 +1,2 @@
-NeoVim Config Files
+## Plugins
+gruvbox.nvim
