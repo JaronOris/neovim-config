@@ -1,2 +1,3 @@
 ## Plugins
-gruvbox.nvim
+gruvbox
+telescope
