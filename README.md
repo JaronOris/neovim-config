@@ -1,3 +1,5 @@
 ## Plugins
-gruvbox
-telescope
+GruvBox
+Telescope
+TreeSitter
+NeoTree
