@@ -3,3 +3,4 @@ GruvBox
 Telescope
 TreeSitter
 NeoTree
+Lualine
