@@ -9,3 +9,6 @@ nvim-cmp <br>
 LuaSnip <br>
 friendly-snippets <br>
 cmp-nvim-lsp <br>
+
+## TODO
+Configure Debugger <br>
