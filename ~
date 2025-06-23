@@ -1,0 +1,19 @@
+  ~/.config/nvim                                                                                                                                                     Size        Type         Last Modified  
+    lua                                                                                                                                                                 -   directory   2025-06-03 01:44 PM  
+   │  config                                                                                                                                                            -   directory   2025-06-16 02:39 PM  
+   └  plugins                                                                                                                                                           -   directory   2025-06-18 04:35 PM  
+     │  completions.lua                                                                                                                              [+]  󰄱        916 B         lua   2025-06-18 04:35 PM  
+     │  friendlysnippets.lua                                                                                                                                        126 B         lua   2025-06-18 11:48 AM  
+     │  greeter.lua                                                                                                                                               2.17 KB         lua   2025-06-16 02:59 PM  
+     │  gruvbox.lua                                                                                                                                         W       158 B         lua   2025-06-09 02:16 PM  
+     │  lsp-config.lua                                                                                                                                              910 B         lua   2025-06-18 01:10 PM  
+     │  lua-line.lua                                                                                                                                                217 B         lua   2025-06-09 03:17 PM  
+     │  neotree.lua                                                                                                                                                 285 B         lua   2025-06-09 02:51 PM  
+     │  none-ls.lua                                                                                                                                                 365 B         lua   2025-06-16 12:59 PM  
+     │  nvim-cmp.lua                                                                                                                                               782 B         lua   2025-06-18 04:35 PM  
+     │  telescope.lua                                                                                                                                               854 B         lua   2025-06-10 03:24 PM  
+     └  treesitter.lua                                                                                                                                              279 B         lua   2025-06-16 12:41 PM  
+   󰂺 README.md                                                                                                                                                        76 B          md   2025-06-16 12:41 PM  
+    init.lua                                                                                                                                                        132 B         lua   2025-06-09 03:00 PM  
+    lazy-lock.json                                                                                                                                                1.87 KB        json   2025-06-18 11:52 AM  
+   (2 hidden items)
