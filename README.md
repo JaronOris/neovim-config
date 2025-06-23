@@ -1,7 +1,11 @@
 ## Plugins
-GruvBox
-Telescope
-TreeSitter
-NeoTree
-Lualine
-telescope-ui-select
+GruvBox <br>
+Telescope <br>
+TreeSitter <br>
+NeoTree <br>
+Lualine <br>
+telescope-ui-select <br>
+nvim-cmp <br>
+LuaSnip <br>
+friendly-snippets <br>
+cmp-nvim-lsp <br>
